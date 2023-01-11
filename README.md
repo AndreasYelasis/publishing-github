@@ -1,7 +1,7 @@
 <img src="images/logo_stargazers_bug.svg" alt="StarGazers Logo">
-Using the following line you cannot define the size of image
+
 ```js
-console.log("![StarGazers_Logo](images/logo_stargazers_bug.svg)");
+console.log("images/logo_stargazers_bug.svg");
 ```
 # StarGazers
 
